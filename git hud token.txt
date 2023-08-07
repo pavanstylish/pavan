@@ -1,0 +1,85 @@
+username:pavanstylish
+token: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
+-----------------------------------------------------------------------------------------------------------------------
+personal token in ccbp was collaborating with git in chapter 1
+
+authenticate:ccbp authenticate HY4H29RXL9
+-----------------------------------------------------------------------------------------------------------------------
+git hub links:
+1. https://github.com/MBhargavi235
+2.https://github.com/ravikiran8844
+3.https://github.com/vijaypotnuru
+4.https://github.com/sabbir292https:
+5.https://github.com/Markonis/coder-type(YouTuder)
+6.https://github.com/kevin-powell(youtuder portfolio)
+7.https://github.com/piyush-eon(react js youtube)
+8.https://github.com/mrNareshKumar
+9.https://github.com/goranti-maneesh
+10.https://github.com/ramakrishna7659?tab=repositories
+11.https://github.com/kiransagar1(youtube)
+12.https://github.com/sanketudaypatil?tab=repositories
+13.https://github.com/SriGiridhar?tab=repositories
+14.https://github.com/ramakrishna7659
+15.https://github.com/niffoxic------------------------------------------HACKEREARTH PERSON
+16.https://github.com/Jagamohan-81---------------------------------------do the portfolio like this in tweeters 
+17.https://github.com/joe-jangala-----------------------------------------tweeter dsa and others
+18.https://github.com/faizmhf666?tab=repositories---------------------------linked in hit hub 
+19.https://github.com/pratiksen18/LeetCode--------------------------------leetcode
+20.https://github.com/Aditya-Bhate?tab=repositories-----------------------leetcode person
+21.https://github.com/kulsagar------------------------------------------for angular js master teacher or trainer
+22.https://github.com/Bhagyasribhagi---------------------------guntur
+23.https://github.com/orgs/vercel/repositories-----------------------------for nxtjs
+24.https://github.com/DasTapan---------------------------------------------project of tagging name
+25.https://github.com/harish3105
+26.https://github.com/chaitanya1203
+27.https://github.com/VishwaGauravIn
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+30days of react by some one:https://github.com/sabbir292/30-Days-Of-React.git
+
+-----------------------------------------------------------------------------------------------------------------------
+
+resume link :
+https://drive.google.com/file/d/19n3nttp3_PN1KwEWGW0UOUb0vdzVpV-9/view?usp=share_link
+-----------------------------------------------------------------------------------------------------------------------
+
+to kill all the servers:
+https://learning.ccbp.in/discussions/f2afee8d-adab-4f44-aeaa-f9bac02d6775
+-----------------------------------------------------------------------------------------------------------------------
+
+to run the server correct even there is no defect:
+https://learning.ccbp.in/discussions/202ea024-54d6-4038-a57b-471a2e285d11
+-----------------------------------------------------------------------------------------------------------------------
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+------------------------------------------------------------------------------------------------------------------------------------
+ide setup:https://learning.ccbp.in/installations/ide-setup-instructions
+
+--------------------------------------------------------------------------------------------------------
+https://lnkd.in/dGKN5ZhE-----hit labs projects
+-----------------------------------------------------------------------------------------------------------------
+Getting Errors in the terminal, even after fixing the issue----
+Stop the running server by pressing CTRL + c
+
+
+Execute the below command in the terminal.
+
+
+rm -rf node_modules && npm install
+
+
+Open a new terminal and execute the command npm start
+------------------------------------------------------------------------------------------------------------
+ccbp applitute:https://learning.ccbp.in/track/intensive-aptitude
+
+
+
+for all time pratice the codes of full stcak we can use ----codedamn----- wesite
+
+------------------------------------------------------------------------------------------
+genpact:
+username:pavankumarpallekonda
+password:Pavan@1305

@@ -1,0 +1,111 @@
+1.Separate the strings and numbers from the given array into two individual arrays and
+strings should be sorted in the ascending order. Program should ignore float and
+should print the count of the float.
+Example:
+const arr = [2.1,4, 'HYD', 8, 6.5, 5, “AC"];
+Output:
+Number : 4, 8, 5
+Strings: AC, HYD
+Float Count: 2
+Answer:
+arr = [2.1,4, 'HYD', 8, 6.5, 5, 'AC'];
+alpha=[]
+floatnum=[]
+intnumb=[]
+for i in arr:
+ if type(i)==float:
+ floatnum.append(i)
+ elif type(i)==int:
+ intnumb.append(i)
+ else:
+ alpha.append(i)
+print("Numbers: "+str(intnumb))
+print("Strings: "+str(alpha))
+print("Float Count: "+str(len(floatnum))
+_________________________________________________________________________________________________________________
+
+2.Identify first smallest duplicate number from the given array, print the index of the
+smallest duplicate number and the value.
+Example:
+const arr = [7, 1, 2, 4, 9, 6, 4, 3, 2, 0];
+Output
+2 is smallest among them and index is 2
+
+Answers:
+arr = [7, 1, 2, 4, 9, 6, 4, 3, 2, 0]
+duplicatenum=[]
+for i in arr:
+    if arr.count(i)==2:
+        duplicatenum.append(i)
+minimun=min(duplicatenum)
+print(str(minimun)+" is the smallest among them and index is "+str(arr.index(minimun)))
+_____________________________________________________________________________________________________________
+
+3.Count the total number of alphabets, digits, special characters and identify the
+character which repeated for the maximum number of times for the string
+"Programming Website 123.com"
+Output :
+Numbers: 3
+Alphabets: 21
+Special character: 4
+Max repeated character : m
+
+Answers:
+word="Programming Website 123.com"
+print(len(word))
+def count_num(word):
+    count={}
+    for i in word:
+        if i in count:
+            count[i]+=1
+        else:
+            count[i] = 1
+    return count
+Alphabets=0
+Numbers=0
+Special_character=0
+
+for i in word:
+    if i.isdigit():
+        Numbers+=1
+    elif i.isalpha():
+        Alphabets+=1
+    else:
+        Special_character+=1
+words=count_num(word)
+print("Numbers: "+str(Numbers))
+print("Alphabets: "+str(Alphabets))
+print("Special_character: "+str(Special_character))
+max_count = 0
+max_alpha = ''
+for j in words:
+    if words[i] > max_count:
+        max_count = words[i]
+        max_alpha = i
+print("Max repeated character : "+ (max_alpha))
+Note: I have got only three special characters but you mention was 3 
+For my answer the length of string was 27 by removing the alphabets and numbers the remaining are special characters then also I got the 3 so I get the 3 as answer plz check the question u have given wrong or I have wort wrong
+
+_________________________________________________________________________________________________________________
+
+4.Find the all the possible pairs of number from the given array wherein sum of the two
+numbers are equal
+Example:
+var array = [1,2,3,4,5,6,7,8,9,0]
+
+AlpineCode - Confidential 1 of 2
+
+Output
+[[9,0],[8,1],[7,2],[6,3],[5,4]]
+
+Answers:
+array = [1,2,3,4,5,6,7,8,9,0]
+maxnum=max(array)
+num_pairs=[]
+for i in range(len(array)):
+    for j in range(i+1, len(array)):
+        if array[i]+array[j]==maxnum:
+            p=(array[i],array[j])
+            num_pairs.append(p)
+print(num_pairs)
+
